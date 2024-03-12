@@ -1,2 +1,2 @@
 # my_first_repo
-just a demo repo
+just a __demo__ repo
